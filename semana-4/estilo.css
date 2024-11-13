@@ -1,0 +1,115 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+    font: normal 14px Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+/* Estilo del contenedor principal */
+.contenedor {
+    background-color: #E8F0FE;
+    border-radius: 10px;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenedor h1 {
+    font-size: 24px;
+    color: #3b5998;
+    margin-bottom: 10px;
+}
+
+.contenedor h3 {
+    font-size: 18px;
+    color: #5f6368;
+    margin-bottom: 20px;
+}
+
+/* Estilo del segundo contenedor */
+.contenedor2 {
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #F7F9FC;
+}
+
+/* Estilo de los fieldsets */
+fieldset {
+    border-radius: 10px;
+    padding: 20px;
+    background: #FFFFFF;
+    margin: 15px 0;
+    font-style: italic;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+legend {
+    padding: 5px 10px;
+    color: #3b5998;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #E8F0FE;
+}
+
+/* Estilos de los textos dentro de los fieldsets */
+span {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    color: #333333;
+}
+
+h5 {
+    text-align: center;
+    font-weight: bold;
+    color: #3b5998;
+    margin-bottom: 15px;
+}
+
+/* Estilo de los párrafos y etiquetas */
+p {
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+}
+
+p label {
+    width: 130px;
+    text-align: right;
+    margin-right: 10px;
+    display: inline-block;
+    color: #333333;
+}
+
+/* Estilo de los inputs */
+p input[type="number"],
+p input[type="text"] {
+    width: 120px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: #FAFAFA;
+}
+
+/* Estilo de los botones */
+input[type="button"] {
+    font: bold 14px Arial, sans-serif;
+    color: white;
+    background: #3b5998;
+    border-radius: 5px;
+    padding: 8px 15px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+input[type="button"]:hover {
+    background: #2d4373;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
