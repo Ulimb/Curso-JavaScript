@@ -1,0 +1,67 @@
+/* Aplicación de estilo general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo para el cuerpo de la página */
+  body {
+    background: url(bg.jpg) #F0F0F0;
+    background-size: cover;
+    color: #fff;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Contenedor principal */
+  .wrap {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  /* Widget del reloj */
+  .widget {
+    width: 40%;
+    margin: 2em auto;
+  }
+  
+  /* Estilo de los párrafos */
+  .widget p {
+    display: inline-block;
+    line-height: 1em;
+  }
+  
+  /* Estilo de la fecha */
+  .fecha {
+    font-family: 'Oswald', Arial, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 5px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  /* Estilo del reloj */
+  .reloj {
+    font-family: 'Oswald', Arial, sans-serif;
+    text-align: center;
+    font-size: 4em;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  /* Estilo para la caja de segundos */
+  .reloj .caja-segundos {
+    display: inline-block;
+  }
+  
+  /* Tamaño reducido para segundos y AM/PM */
+  .reloj .segundos,
+  .reloj .ampm {
+    font-size: 2rem;
+    display: block;
+  }
