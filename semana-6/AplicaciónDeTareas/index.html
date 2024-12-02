@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aplicación de Tareas en JavaScript</title>
+  <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
+</head>
+<body>
+
+  <!-- Barra de navegación -->
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+      <!-- Título de la aplicación -->
+      <a class="navbar-brand text-warning" href="#">Aplicación de Tareas</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="row my-5">
+      <div class="col-md-4">
+        <!-- Tarjeta para el formulario -->
+        <div class="card bg-light">
+          <div class="card-body">
+            <!-- Formulario para agregar tareas -->
+            <form id="formTask">
+              <div class="form-group">
+                <!-- Campo de entrada para el título de la tarea -->
+                <input type="text" id="title" placeholder="Agregar una tarea" class="form-control bg-white text-dark">
+              </div>
+              <div class="form-group">
+                <!-- Campo de entrada para la descripción de la tarea -->
+                <textarea id="description" cols="30" rows="10" class="form-control bg-white text-dark" placeholder="Descripción"></textarea>
+              </div>
+              <!-- Botón para guardar la tarea -->
+              <button type="submit" class="btn btn-warning btn-block">Guardar</button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-8">
+        <!-- Contenedor donde se mostrarán las tareas -->
+        <div id="tasks"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Archivo JavaScript para la lógica de la aplicación -->
+  <script src="./app.js"></script>
+</body>
+</html>
