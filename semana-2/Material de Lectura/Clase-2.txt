@@ -1,0 +1,7 @@
+- 2024: https://www.youtube.com/watch?v=F6meHpzUuTg
+
+- Arreglos: https://www.youtube.com/watch?v=yw_ROo9Sdfc&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G&index=5
+
+- Operadores y Arreglos: https://www.youtube.com/watch?v=fiLGwwDpzbY
+
+- Documentacion Arreglos: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array

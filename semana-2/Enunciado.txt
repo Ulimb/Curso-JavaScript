@@ -1,0 +1,19 @@
+Como consignas de realización alternativa tenes:
+
+Tarea 1: Probemos crear un arreglo (arrays): Tenes que crear un documento .HTML donde agregaremos un Script , el cual nos vaya pidiendo los datos personales, (nombre, apellido, edad, ciudad donde vivimos). podemos utilizar pompt (Ejemplo: prompt("Ingrese su nombre");  Esta información debe ser guardada en un arreglo, y luego mostrada en el documento.
+ 
+
+Como consignas de realización obligatoria, deberás:
+
+vamos a suponer que es el orden de posiciones de la lista de alumnos
+ Crear un comentario describiendo la acción a realizar en cada ejecución  
+ Crear un array con el nombre “posiciones” con la lista suministrada Ejemp
+Imprimiremos el array (busca la mejor forma de hacerlo) puedes usar “Join” etiquetas de HTML como “<br>” entre otras)
+
+Tarea 2: Modificar un array: te facilitaremos la primera parte de una lista (array) y luego con ayuda del material suministrado trata de realizar los cambios que se indicar.
+1.  Susana no asistió y la eliminamos de esta lista
+2.  Después de Jesús y antes de Laura entregaron 2 alumnos que no estaban en la lista: Roberto y Claudia, en ese orden
+3.  Jose, tampoco estaba en la lista entrego en ultimo lugar 
+4.  Por ultimo tenemos que mostrar la cantidad de participantes que entregaron la actividad
+ 
+Nota: puede subir solo el html con código JavaScript (etiqueta script) incrustado, o subir ambos archivos  .html   y  .js

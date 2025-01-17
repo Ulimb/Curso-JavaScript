@@ -1,0 +1,8 @@
+Hola, Bienvenidos al al módulo 6 de JavaScript, en este módulo veremos una pequeña introducción a lo que son las librerías
+
+Como consignas de realización deberás:
+ 
+
+1.Leer el material y luego investigar un poco mas acerca de las funciones que tiene  las librerías, y después compartir en el foro cual de las librerías te pareció mas interesante y para que la utilizarías.
+
+2.También estaré compartiendo un nuevo modulo "Trabajo final del curso", por lo que puedes Ir pensando en un pequeño proyecto final , donde incluir lo visto en este curso. igual aca se compartirán algunas ideas.

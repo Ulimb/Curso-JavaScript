@@ -1,0 +1,9 @@
+¡Excelente trabajo, Ulises! te dejo valoracion y recomendación 
+
+Al usar crrectamente el método prompt() para solicitar el nombre del usuario. Esto hace que tu código sea interactivo y permite al usuario agregar su nombre de manera sencilla.
+
+Verificación: Aplicaste bien el método includes() para verificar si el nombre ya está en la lista. Este paso es esencial para evitar duplicados y notificar al usuario, ¡bien hecho!
+
+Estructura de impresión: Al imprimir la lista final con un for, usaste una concatenación con una leyenda personalizada, lo cual le da un toque agradable y bien pensado.
+
+Una recomendación para futuros trabajos, se podría mejorar la validación del nombre ingresado (por ejemplo, ignorar espacios o diferencias en mayúsculas y minúsculas). En general, ¡has hecho un trabajo!
